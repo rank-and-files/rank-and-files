@@ -2,7 +2,7 @@
 I am Ben, a Master's student at the University of Bonn. I am fortunate to be writing my Master's thesis under the guidance of [Goran Radanović](https://people.mpi-sws.org/~gradanovic/) from the Max Planck Institute for Software Systems (MPI-SWS).
 
 - 🔭 I’m currently working on robust alignment of large language models
-- 🌱 Previously I worked on environment shift in reinforcement learning
+- 🌱 Previously I worked on reinforcement learning theory and computer vision for plant inspection
 - 📫 How to reach me: `benrank (at) mpi-sws.org`
 
 #### Publication
