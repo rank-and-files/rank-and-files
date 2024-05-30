@@ -6,7 +6,7 @@ I am Ben, a Master's student at the University of Bonn. I am fortunate to be wri
 - 📫 How to reach me: `benrank (at) mpi-sws.org`
 
 #### Publication
-- [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838), 40th Conference on Uncertainty in Artificial Intelligence, 2024
+- [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838), 40th Conference on Uncertainty in Artificial Intelligence (UAI), 2024
 
 <!--
 **bsen/bsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
