@@ -1,13 +1,4 @@
-### Hi there 👋
-I am Ben, a Master's student at the University of Bonn. I am fortunate to be writing my Master's thesis under the guidance of [Goran Radanović](https://people.mpi-sws.org/~gradanovic/) from the Max Planck Institute for Software Systems (MPI-SWS).
-
-- 🔭 I’m currently working on robust alignment of large language models
-- 🌱 Previously I worked on reinforcement learning theory and computer vision for plant inspection
-- 📫 How to reach me: `benrank (at) mpi-sws.org`
-
-#### Publication
-- [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838), 40th Conference on Uncertainty in Artificial Intelligence (UAI), 2024
-
+https://rank-and-files.github.io
 <!--
 **bsen/bsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
